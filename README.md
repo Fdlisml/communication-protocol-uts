@@ -1,8 +1,8 @@
 # UTS Communication Protocol - Praktikum Individu
 
-- **Nama**: [Nama Anda]
-- **NIM**: [NIM Anda]
-- **Kelas**: Sains Data - Profesional
+- **Nama**: Fadli Ismail
+- **NIM**: 25120500009
+- **Kelas**: ComP2 - Profesional
 - **Case yang Dipilih**: Case 2 - Product/Inventory API
 
 ## Struktur Repository
